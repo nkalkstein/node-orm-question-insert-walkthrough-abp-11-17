@@ -15,7 +15,7 @@ class Question{
   }
 
   constructor(content){
-    this.content = conten
+    this.content = content
   }
 
   insert(){
